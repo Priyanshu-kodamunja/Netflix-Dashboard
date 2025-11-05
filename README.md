@@ -37,7 +37,7 @@ Gained insights into global entertainment trends on Netflix
 📂 Files Included:
 NetflixAnalysis.pbix → Power BI project file
 netflix_titles.csv → Raw dataset from Kaggle
-Dashboard1.PNG 
+https://github.com/Priyanshu-kodamunja/Netflix-Dashboard/blob/main/Dashboard1.PNG
 README.md → Project documentation
 
 🏁 Conclusion:
