@@ -35,8 +35,8 @@ Learned to build professional-level dashboards in Power BI
 Gained insights into global entertainment trends on Netflix
 
 📂 Files Included:
-NetflixAnalysis.pbix → Power BI project file
-netflix_titles.csv → Raw dataset from Kaggle
+ → Power BI project file
+https://github.com/Priyanshu-kodamunja/Netflix-Dashboard/blob/main/netflix_titles.csv → Raw dataset from Kaggle
 
 https://github.com/Priyanshu-kodamunja/Netflix-Dashboard/blob/main/Dashboard1.PNG And https://github.com/Priyanshu-kodamunja/Netflix-Dashboard/blob/main/Dahboard2.PNG 
 README.md → Project documentation
