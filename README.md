@@ -39,7 +39,7 @@ Gained insights into global entertainment trends on Netflix
 https://github.com/Priyanshu-kodamunja/Netflix-Dashboard/blob/main/netflix%20analysis.pbix → Power BI project file
 https://github.com/Priyanshu-kodamunja/Netflix-Dashboard/blob/main/netflix_titles.csv → Raw dataset from Kaggle
 https://github.com/Priyanshu-kodamunja/Netflix-Dashboard/blob/main/Dashboard1.PNG And https://github.com/Priyanshu-kodamunja/Netflix-Dashboard/blob/main/Dahboard2.PNG 
-README.md → Project documentation
+ → Dashboards Screenshots
 
 🏁 Conclusion:
 This project showcases how Power BI can be used to turn raw entertainment data into a dynamic, visually appealing dashboard. It provides valuable insights into Netflix’s global content trends, helping users explore data interactively.
